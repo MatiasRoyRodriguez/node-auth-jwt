@@ -19,6 +19,5 @@ app.use('/users', usersRoutes)
 //User
 
 
-console.log('Ejecutado')
 
 export default app;
